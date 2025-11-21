@@ -19,16 +19,16 @@ Baseline → 전처리 개선 → 경량 모델 → LoRA → 최종 앙상블
 
 ## 작업 흐름 (Workflow)
 
-각자 feature/개인브랜치에서 작업
-기능이 어느 정도 완성되면 develop으로 PR(Pull Request)
-팀원 1명 이상 리뷰 후 merge
-develop이 안정화되면 → main에 최종 merge
+- 각자 feature/개인브랜치에서 작업
+- 기능이 어느 정도 완성되면 develop으로 PR(Pull Request)
+- 팀원 1명 이상 리뷰 후 merge
+- develop이 안정화되면 → main에 최종 merge
 
 ## Pull Request 규칙
 
-제목: [preprocess] 규칙 기반 전처리 추가, [lora] LoRA 1차 실험
-내용:
-변경 내용
-baseline 대비 달라진 점
-실험 결과(간단하게)
-영향받는 모듈등등
+- 제목: [preprocess] 규칙 기반 전처리 추가, [lora] LoRA 1차 실험
+- 내용:
+- 변경 내용
+- baseline 대비 달라진 점
+- 실험 결과(간단하게)
+- 영향받는 모듈등등
