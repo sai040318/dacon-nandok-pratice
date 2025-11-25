@@ -1,0 +1,23 @@
+﻿model_name,char_accuracy,word_accuracy,similarity,avg_score,error,model_type,encoder
+beomi/gemma-ko-2b,0.1375088019434359,0.0203250884938037,0.252867718689533,0.1369005363755909,,CausalLM,
+paust/pko-t5-base,0.044480212,0.0,0.1533247690563478,0.065934994,,,
+lcw99/t5-base-korean-text-summary,0.039522185,0.0,0.1487291529180346,0.062750446,,,
+psyche/KoT5-summarization,0.028793917,0.000864008,0.1022882283566717,0.043982051,,,
+klue/roberta-small-encoder-decoder,0.029393860311916722,0.0,0.09657035738921811,0.04198807256704495,,EncoderDecoder,klue/roberta-small
+cosmoquester/bart-ko-small,0.020550541,0.0,0.097435219,0.039328586,,,
+eenzeenee/t5-base-korean-summarization,0.017042114,0.0,0.090025003,0.035689039,,,
+gogamza/kobart-summarization,0.01418323,0.0,0.074921957,0.029701729,,,
+Jo-2j/Dacon-Encrypted,0.01030912,0.0,0.068503591,0.026270904,,,
+gogamza/kobart-base-v2,0.011613278,0.0,0.066696416,0.026103231,,,
+facebook/mbart-large-50,0.009888446,0.0,0.052564721,0.020817722,,,
+monologg/koelectra-small-v2-discriminator-encoder-decoder,0.011077175814526743,0.0,0.04726136905931612,0.019446181624614287,,EncoderDecoder,monologg/koelectra-small-v2-discriminator
+beomi/KcELECTRA-base-encoder-decoder,0.01657870396317985,0.0,0.02369007543566216,0.013422926466280669,,EncoderDecoder,beomi/KcELECTRA-base
+KETI-AIR/ke-t5-base,0.001933368,0.0,0.007490327,0.003141232,,,
+cchyun/nmt-koen-t5-small,0.001335234,0.0,0.007147003,0.002827412,,,
+lcw99/t5-base-korean-grammar-correction,0.0,0.0,0.0,0.0,"lcw99/t5-base-korean-grammar-correction is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`",,
+MLP-KTLim/llama-3-Korean-Bllossom-AICA-3B,0.0,0.0,0.0,0.0,"MLP-KTLim/llama-3-Korean-Bllossom-AICA-3B is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `huggingface-cli login` or by passing `token=<your_token>`",,
+kakaobank/kf-deberta-base-encoder-decoder,0.0,0.0,0.0,0.0,"Unrecognized configuration class <class 'transformers.models.deberta_v2.configuration_deberta_v2.DebertaV2Config'> for this kind of AutoModel: AutoModelForCausalLM.
+Model type should be one of ArceeConfig, AriaTextConfig, BambaConfig, BartConfig, BertConfig, BertGenerationConfig, BigBirdConfig, BigBirdPegasusConfig, BioGptConfig, BitNetConfig, BlenderbotConfig, BlenderbotSmallConfig, BloomConfig, CamembertConfig, LlamaConfig, CodeGenConfig, CohereConfig, Cohere2Config, CpmAntConfig, CTRLConfig, Data2VecTextConfig, DbrxConfig, DeepseekV3Config, DiffLlamaConfig, Dots1Config, ElectraConfig, Emu3Config, ErnieConfig, FalconConfig, FalconH1Config, FalconMambaConfig, FuyuConfig, GemmaConfig, Gemma2Config, Gemma3Config, Gemma3TextConfig, Gemma3nConfig, Gemma3nTextConfig, GitConfig, GlmConfig, Glm4Config, GotOcr2Config, GPT2Config, GPT2Config, GPTBigCodeConfig, GPTNeoConfig, GPTNeoXConfig, GPTNeoXJapaneseConfig, GPTJConfig, GraniteConfig, GraniteMoeConfig, GraniteMoeHybridConfig, GraniteMoeSharedConfig, HeliumConfig, JambaConfig, JetMoeConfig, LlamaConfig, Llama4Config, Llama4TextConfig, MambaConfig, Mamba2Config, MarianConfig, MBartConfig, MegaConfig, MegatronBertConfig, MiniMaxConfig, MistralConfig, MixtralConfig, MllamaConfig, MoshiConfig, MptConfig, MusicgenConfig, MusicgenMelodyConfig, MvpConfig, NemotronConfig, OlmoConfig, Olmo2Config, OlmoeConfig, OpenLlamaConfig, OpenAIGPTConfig, OPTConfig, PegasusConfig, PersimmonConfig, PhiConfig, Phi3Config, Phi4MultimodalConfig, PhimoeConfig, PLBartConfig, ProphetNetConfig, QDQBertConfig, Qwen2Config, Qwen2MoeConfig, Qwen3Config, Qwen3MoeConfig, RecurrentGemmaConfig, ReformerConfig, RemBertConfig, RobertaConfig, RobertaPreLayerNormConfig, RoCBertConfig, RoFormerConfig, RwkvConfig, SmolLM3Config, Speech2Text2Config, StableLmConfig, Starcoder2Config, TransfoXLConfig, TrOCRConfig, WhisperConfig, XGLMConfig, XLMConfig, XLMProphetNetConfig, XLMRobertaConfig, XLMRobertaXLConfig, XLNetConfig, XmodConfig, ZambaConfig, Zamba2Config.",EncoderDecoder,kakaobank/kf-deberta-base
+,,,,,,,
