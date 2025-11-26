@@ -3,15 +3,18 @@ beomi/gemma-ko-2b,0.1375088019434359,0.0203250884938037,0.252867718689533,0.1369
 paust/pko-t5-base,0.044480212,0.0,0.1533247690563478,0.065934994,,,
 lcw99/t5-base-korean-text-summary,0.039522185,0.0,0.1487291529180346,0.062750446,,,
 psyche/KoT5-summarization,0.028793917,0.000864008,0.1022882283566717,0.043982051,,,
-klue/roberta-small-encoder-decoder,0.029393860311916722,0.0,0.09657035738921811,0.04198807256704495,,EncoderDecoder,klue/roberta-small
+klue/roberta-small-encoder-decoder,0.0293938603119167,0.0,0.0965703573892181,0.0419880725670449,,EncoderDecoder,klue/roberta-small
 cosmoquester/bart-ko-small,0.020550541,0.0,0.097435219,0.039328586,,,
 eenzeenee/t5-base-korean-summarization,0.017042114,0.0,0.090025003,0.035689039,,,
 gogamza/kobart-summarization,0.01418323,0.0,0.074921957,0.029701729,,,
 Jo-2j/Dacon-Encrypted,0.01030912,0.0,0.068503591,0.026270904,,,
 gogamza/kobart-base-v2,0.011613278,0.0,0.066696416,0.026103231,,,
 facebook/mbart-large-50,0.009888446,0.0,0.052564721,0.020817722,,,
-monologg/koelectra-small-v2-discriminator-encoder-decoder,0.011077175814526743,0.0,0.04726136905931612,0.019446181624614287,,EncoderDecoder,monologg/koelectra-small-v2-discriminator
-beomi/KcELECTRA-base-encoder-decoder,0.01657870396317985,0.0,0.02369007543566216,0.013422926466280669,,EncoderDecoder,beomi/KcELECTRA-base
+monologg/koelectra-small-v2-discriminator-encoder-decoder,0.0110771758145267,0.0,0.0472613690593161,0.0194461816246142,,EncoderDecoder,monologg/koelectra-small-v2-discriminator
+beomi/KcELECTRA-base-encoder-decoder,0.0165787039631798,0.0,0.0236900754356621,0.0134229264662806,,EncoderDecoder,beomi/KcELECTRA-base
+Qwen/Qwen2-0.5B,0.004647388989785761,0.0,0.031501757203961464,0.012049715397915743,,,
+Qwen/Qwen2.5-0.5B,0.004686779934390867,0.0,0.03088078084968645,0.011855853594692439,,,
+Qwen/Qwen3-0.6B,0.004068953055431559,0.0,0.028152528801921765,0.010740493952451108,,,
 KETI-AIR/ke-t5-base,0.001933368,0.0,0.007490327,0.003141232,,,
 cchyun/nmt-koen-t5-small,0.001335234,0.0,0.007147003,0.002827412,,,
 lcw99/t5-base-korean-grammar-correction,0.0,0.0,0.0,0.0,"lcw99/t5-base-korean-grammar-correction is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
